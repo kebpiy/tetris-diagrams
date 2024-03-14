@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "tetris-diagrams",
+	"name": "Tetris Diagrams",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Easily create and display Tetris diagrams",
+	"author": "kebp",
+	"authorUrl": "",
+	"fundingUrl": "",
 	"isDesktopOnly": false
 }
